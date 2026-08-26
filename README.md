@@ -244,7 +244,7 @@ File	Description
 app.py	Main Streamlit application containing the image compression implementation
 requirements.txt	Contains the required Python dependencies
 README.md	Project documentation and usage instructions
-Team Members
+#Team Members
 
 This project was developed as a group project by:
 
@@ -252,9 +252,7 @@ Shine Pandey
 Smarita Karkee
 Sampada K.C.
 Tabita Mali
-Project Purpose
-
+#Project Purpose
 PixelReduce was developed as an academic project to demonstrate the practical application of K-Means clustering, image processing, color quantization, and Python-based application development.
-
 The project provides hands-on implementation of an image compression technique while allowing users to explore the relationship between number of colors, image quality, and compression.
 
