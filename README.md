@@ -1,4 +1,4 @@
-# PixelReduce – Image Compression via K-Means Color Quantization
+🎨 PixelReduce – Image Compression via K-Means Color Quantization
 PixelReduce is an image compression and optimization system that uses **K-Means color quantization** to reduce the number of colors in an image while preserving its overall visual appearance.
 
 The project is developed as a **Streamlit web application**. It clusters image pixels in RGB color space and replaces each pixel with the corresponding cluster's centroid color. This reduces the color complexity of the image and can help decrease its storage requirements.
